@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Databases
+*.sqlite3
+test.db
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/

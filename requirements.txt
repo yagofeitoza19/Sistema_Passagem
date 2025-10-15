@@ -1,0 +1,16 @@
+fastapi==0.78.0
+uvicorn
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]==1.7.4
+bcrypt==3.2.0
+python-jose[cryptography]
+python-dotenv
+python-multipart
+pydantic<2
+email-validator
+fastapi-mail
+
+# Dependências para testes
+pytest
+httpx
