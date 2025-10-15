@@ -38,8 +38,8 @@ A maneira mais simples de executar este projeto é utilizando Docker e Docker Co
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <NOME_DO_REPOSITORIO>/backend
+    git clone https://github.com/yagofeitoza19/Sistema_Passagem.git
+    cd /backend
     ```
 
 2.  **Crie e configure o arquivo de ambiente:**
